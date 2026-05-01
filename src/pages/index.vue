@@ -1,3 +1,5 @@
 <template>
-  <div>Hola Mundo</div>
+  <div>Hola Index</div>
 </template>
+
+<script setup></script>
